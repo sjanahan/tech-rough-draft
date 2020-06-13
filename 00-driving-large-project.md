@@ -117,4 +117,4 @@ I want to give a huge shoutout to Cesar Ramirez and Chad Rivoli for teaching me
 techniques that I would have otherwise floundered around for years to figure out
 myself. By working with folks with different skill sets, we can be exposed to
 blind spots in our view of the world and better equip ourselves for navigating
-complex scenarios.
+complex scenarios and driving for the change you want to see.
