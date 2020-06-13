@@ -2,7 +2,7 @@
 
 ## Background 
 Hi y'all, I'm Janahan Sivaraman and I'm a Staff Software Engineer
-@ Walmart Labs - Health and Wellness. Prior to Walmarts Labs, I was a Staff
+@ Walmart Labs - Health and Wellness. Prior to Walmart Labs, I was a Staff
 Software Engineer working on AdTech systems for Jet.com that enabled Jet to
 publish its catalog all over the internet, allowed affiliates to monetize their
 presence, and even for Jet itself to monetize its digital real estate.
