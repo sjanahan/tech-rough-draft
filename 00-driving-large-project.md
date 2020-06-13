@@ -49,8 +49,8 @@ COVID-19 pandemic)!
   * It's significantly easier to come to a meeting with a visual representation
   of what you're speaking about. Otherwise you'll spend a non-trivial amount of
   time getting folks to build mental models solely based on your words. Level
-  settings on the basis of the technical discussion focuses the conversation on
-  what yet hasn't been solved instead of what your vision is
+  setting the technical discussion focuses the conversation on what yet hasn't
+  been solved instead of what your vision is
 #### Establish your stakeholders early and send Executive Summaries weekly
   * By identifying your stakeholders early, you ensure that you have the support
   of folks who control how humans and money are allocated. For that support,
