@@ -1,4 +1,4 @@
-# How to keep a complex, multi-team project moving forward?
+# How do I keep a complex, multi-team project moving forward?
 
 ## Background 
 Hi y'all, I'm Janahan Sivaraman and I'm a Staff Software Engineer
