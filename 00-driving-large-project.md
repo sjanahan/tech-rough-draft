@@ -1,4 +1,5 @@
 # How to keep a complex, multi-team project moving forward?
+##### HIPAA Cloud, June 13 2020
 
 ## Background 
 Hi y'all, I'm Janahan Sivaraman and I'm a Staff Software Engineer
@@ -117,4 +118,4 @@ I want to give a huge shoutout to Cesar Ramirez and Chad Rivoli for teaching me
 techniques that I would have otherwise floundered around for years to figure out
 myself. By working with folks with different skill sets, we can be exposed to
 blind spots in our view of the world and better equip ourselves for navigating
-complex scenarios and driving for the change you want to see.
+complex scenarios and driving for the change we want to see.
