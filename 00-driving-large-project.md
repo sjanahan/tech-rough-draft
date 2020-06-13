@@ -78,7 +78,7 @@ COVID-19 pandemic)!
   taught me this. Again, history is written by the winners. By owning the
   narrative of who attended, what happened, and what action items came out of a
   meeting, you can hold folks accountable to their word and defend against folks
-  who misremember them commitments
+  who misremember their commitments.
   * He kept this in chronological order in a JIRA notebook and replied-all to
   every single meeting with a link to that specific page in the JIRA notebook,
   no imatter how insignificant that meeting seemed.
