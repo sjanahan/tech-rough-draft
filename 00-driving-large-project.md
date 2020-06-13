@@ -27,7 +27,7 @@ different answers - none of which came with a resounding "and you should follow
 our lead". The existing deployment solutions were either brittle, non-compliant
 for HIPAA, or highly manual to operate.
 
-Understanding that minimizing iteration loops are a major key to delivering software
+Understanding that minimizing iteration loops is a major key to delivering software
 solutions quickly, a group of us proposed an entire HIPAA Cloud, a set of cloud-native
 infrastructure where as much HIPAA compliance was pushed down into the
 infrastructure so that application developers could focus on owning business
