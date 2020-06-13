@@ -8,7 +8,7 @@ publish its catalog all over the internet, allowed affiliates to monetize their
 presence, and even for Jet itself to monetize its digital real estate.
 
 At Jet we were the Growth Engineering Team, responsible for the systems that
-allowed Jet to grow to 1 million users even faster that Instagram. 
+allowed Jet to grow to 1 million users even faster than Instagram. 
 
 When Jet's Engineering teams were reallocated towards Walmart Labs in June 2019,
 we were lucky enough to keep >90% of the squad together and Walmart Lab's Health
