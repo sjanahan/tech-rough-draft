@@ -58,8 +58,8 @@ COVID-19 pandemic)!
   that gives them the confidence that they need not initiate correspondece
   relating to status updates. Cesar Ramirez, our Software Foundations Customer
   Relationship Manager, suggested this early on in the HIPAA Cloud journey and
-  allowed us to own the narrative about the progress were making all along the
-  way. 
+  allowed us to own the narrative about the progress we were making all along 
+  the way. 
 #### Use JIRA tickets not only for documenting asks, but also escalation 
   * History is written by the winners. Some folks - either acting in bad faith
   or due to opportunity cost, may agree to an ask from you that they won't
