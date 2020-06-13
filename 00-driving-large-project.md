@@ -24,7 +24,7 @@ question I had was how do y'all deploy to the Cloud?
 
 I talked to four existing teams within Health and Wellness and got four
 different answers - none of which came with a resounding "and you should follow
-our lead". The existing deployment solutions were either brittle, non-compliant
+our lead". The existing deployment solutions were either unscalable, non-compliant
 for HIPAA, or highly manual to operate.
 
 Understanding that minimizing iteration loops is a major key to delivering software
