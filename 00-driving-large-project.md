@@ -110,7 +110,7 @@ whether it was safe for them to come in or not, and if not, when they should
 return to work.
 
 I'm so proud to have been a driving force in supporting Walmart's response to
-COVID-19 and to keep our in-store associates safe from the ravages of this
+COVID-19 and to keep our in-store associates safer from the ravages of this
 pandemic.
 
 I want to give a huge shoutout to Cesar Ramirez and Chad Rivoli for teaching me
