@@ -41,7 +41,7 @@ While the technical details are interesting, I'll be focusing today on what I
 learned from folks not in Engineering - as they taught me specific, actionable
 techniques to ensuring this project - which involved more than 10 teams across
 Engineering, Software Foundations, Compliance, and the Security Operations
-Center, to be completed in just 5 months (of which 2 months were during the
+Center, to be completed in just **5 months** (of which 2 months were during the
 COVID-19 pandemic)!
 
 ## Action
