@@ -45,13 +45,13 @@ Center, to be completed in just 5 months (of which 2 months were during the
 COVID-19 pandemic)!
 
 ## Action
-1. Come to the meeting prepared with architecture diagram
+#### Come to the meeting prepared with architecture diagram
   * It's significantly easier to come to a meeting with a visual representation
   of what you're speaking about. Otherwise you'll spend a non-trivial amount of
   time getting folks to build mental models solely based on your words. Level
   settings on the basis of the technical discussion focuses the conversation on
   what yet hasn't been solved instead of what your vision is
-1. Establish your stakeholders early and send Executive Summaries weekly
+#### Establish your stakeholders early and send Executive Summaries weekly
   * By identifying your stakeholders early, you ensure that you have the support
   of folks who control how humans and money are allocated. For that support,
   it's critical for the sake of transparency that you update them on a cadence
@@ -60,20 +60,20 @@ COVID-19 pandemic)!
   Relationship Manager, suggested this early on in the HIPAA Cloud journey and
   allowed us to own the narrative about the progress were making all along the
   way. 
-1. Use JIRA tickets not only for documenting asks, but also escalation 
+#### Use JIRA tickets not only for documenting asks, but also escalation 
   * History is written by the winners. Some folks - either acting in bad faith
   or due to opportunity cost, may agree to an ask from you that they won't
   honor. By documenting exactly what you're asking for in a JIRA ticket, you
   ensure there is a paper trail of what you asked for and why it's important.
   Additionally, now that you have a receipt for your ask, it's a perfect place
   to escalate to their management when promises are broken. 
-1. Keep a positive attitude (especially externally) 
+#### Keep a positive attitude (especially externally) 
   * Folks gravitate to and follow optimistic people. If the future isn't better
   than the now, what's really the point of being part of it? 
   * The bigger the project, the more important this positive attitude is. You'll
   need the buy-in of so many folks that it's critical you give them the
   confidence to move forward with you.
-1. Take meticulous meeting notes
+#### Take meticulous meeting notes
   * Our Software Foundations Program Manager, Chad Rivoli,
   taught me this. Again, history is written by the winners. By owning the
   narrative of who attended, what happened, and what action items came out of a
@@ -82,7 +82,7 @@ COVID-19 pandemic)!
   * He kept this in chronological order in a JIRA notebook and replied-all to
   every single meeting with a link to that specific page in the JIRA notebook,
   no imatter how insignificant that meeting seemed.
-1. All statements must be captured in writing (especially from Compliance)
+#### All statements must be captured in writing (especially from Compliance)
   * There will be times when folks say one thing one day and a few weeks later
   some other folks challenge the first group's word - especially if it's
   relating to compliance. If you don't get decisions in writing, you'll waste
