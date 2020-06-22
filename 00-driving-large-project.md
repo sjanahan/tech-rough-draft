@@ -10,7 +10,7 @@ At Jet we were the Growth Engineering Team, responsible for the systems that all
 
 When Jet's Engineering teams were reallocated towards Walmart Labs in June 2019, we were lucky enough to keep >90% of the squad together and Walmart Lab's Health and Wellness organization was gracious enough to have us. 
 
-So when the business approacheed us about building a technology solution to help increase adherence, the first thing we had to do was understand the different subsystems that exist. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was, "How do y'all deploy to the Cloud?"
+So when the Business folks approached us about building a technology solution to help increase adherence, the first thing we had to do was understand the different subsystems that existed. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was, "How do y'all deploy to the Cloud?"
 
 I talked to four existing teams within our new group and got four different answers - none of which came with a resounding, "and you should follow our lead". The existing deployment solutions were either unscalable, archeaic, or highly manual to operate.
 
