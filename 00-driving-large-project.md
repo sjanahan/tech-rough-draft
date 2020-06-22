@@ -2,7 +2,7 @@
 
 ## Situation
 
-A big problem that Health and Wellness is working on is to find a way to help drive adherence of therapy for chronically ill patients. Adherence in the health world is a way to get the people that are receiving treatments; those therapies and treatments could be prescriptions, to stick with those therapies. This is not an easy task for health care professionals to try and solve but technology can help.
+A big problem that Health and Wellness is working on is to find a way to help drive adherence of therapy for chronically ill patients. Adherence is the measure of how closely patients stick to their prescribed dosages. This is not an easy task for health care professionals to try and solve but technology can help.
 
 Before I get into how the Health and Wellness team and I started solving some of our big problems and are continuing too do so, I'd like to tell you a bit about myself. I'm Janahan Sivaraman and I'm a Staff Software Engineer @ Walmart Labs - Health and Wellness. Before Walmart Labs, I was a Staff Software Engineer working on AdTech systems for Jet.com that enabled Jet to publish its catalog all over the internet, allowed affiliates to monetize their presence, and even for Jet itself to monetize its digital real estate.
 
@@ -10,7 +10,7 @@ At Jet we were the Growth Engineering Team, responsible for the systems that all
 
 When Jet's Engineering teams were reallocated towards Walmart Labs in June 2019, we were lucky enough to keep >90% of the squad together and Walmart Lab's Health and Wellness organization was gracious enough to have us. 
 
-Since we were new to the area, the first thing we had to do was understand the different subsystems that exist. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was, "How do y'all deploy to the Cloud?"
+So when the business approacheed us about building a technology solution to help increase adherence, the first thing we had to do was understand the different subsystems that exist. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was, "How do y'all deploy to the Cloud?"
 
 I talked to four existing teams within our new group and got four different answers - none of which came with a resounding, "and you should follow our lead". The existing deployment solutions were either unscalable, archeaic, or highly manual to operate.
 
@@ -54,4 +54,4 @@ There is no way we could have seen the COVID-19 pandemic reaching the USA in Nov
 
 I'm so proud to have been a driving force in supporting Walmart's response to COVID-19 and to keep our in-store associates safer from the ravages of this pandemic.
 
-I want to give a huge shoutout to Cesar Ramirez and Chad Rivoli for teaching me techniques that I would have otherwise floundered around for years to figure out myself. By working with folks with different skill sets, we can be exposed to blind spots in our view of the world and better equip ourselves for navigating complex scenarios and driving for the change we want to see.
+I want to give a huge shoutout to Cesar Ramirez and Chad Rivoli for teaching me techniques that I would have otherwise floundered around for years to figure out myself. By working with folks with different skill sets, we can be exposed to blind spots in our view of the world and better equip ourselves for navigating complex scenarios and driving the change we want to see.
