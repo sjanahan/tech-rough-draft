@@ -2,7 +2,7 @@
 
 ## Situation
 
-A big problem that Health and Wellness is working on is to find a way to help drive adherence of therapy for chronically ill patients. Adherence is the measure of how closely patients stick to their prescribed dosages. This is not an easy task for health care professionals to try and solve but technology can help.
+A big problem that Health and Wellness is working on is to find a way to help increase adherence of therapy for chronically ill patients. Adherence is the measure of how closely patients stick to their prescribed dosages. This is not an easy task for health care professionals to try and solve but technology can help.
 
 Before I get into how the Health and Wellness team and I started solving some of our big problems and are continuing too do so, I'd like to tell you a bit about myself. I'm Janahan Sivaraman and I'm a Staff Software Engineer @ Walmart Labs - Health and Wellness. Before Walmart Labs, I was a Staff Software Engineer working on AdTech systems for Jet.com that enabled Jet to publish its catalog all over the internet, allowed affiliates to monetize their presence, and even for Jet itself to monetize its digital real estate.
 
