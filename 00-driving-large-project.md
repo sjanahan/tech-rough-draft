@@ -1,24 +1,28 @@
-# How do I keep a complex, multi-team project moving forward?
+# 6 Tips to Keep a Large, Mutli-Team Project on Track
 
-A big problem that Health and Wellness has to try and solve is to find a way to help drive adherence of therapy for chronically ill patients. Adherence in the health world is a way to get the people that are receiving treatments; those therapies and treatments could be prescriptions etc, to stick with those therapies. This is not an easy task for health care professionals to try and solve but technology can help.
+## Situation
 
-Before I get into how the health and wellness team and I started solving some of our big problems and are continuing too do so, id like to tell you a bit about myself. I'm Janahan Sivaraman and I'm a Staff Software Engineer @ Walmart Labs - Health and Wellness. Before Walmart Labs, I was a Staff Software Engineer working on AdTech systems for Jet.com that enabled Jet to publish its catalog all over the internet, allowed affiliates to monetize their presence, and even for Jet itself to monetize its digital real estate.
+A big problem that Health and Wellness is working on is to find a way to help drive adherence of therapy for chronically ill patients. Adherence in the health world is a way to get the people that are receiving treatments; those therapies and treatments could be prescriptions, to stick with those therapies. This is not an easy task for health care professionals to try and solve but technology can help.
+
+Before I get into how the Health and Wellness team and I started solving some of our big problems and are continuing too do so, I'd like to tell you a bit about myself. I'm Janahan Sivaraman and I'm a Staff Software Engineer @ Walmart Labs - Health and Wellness. Before Walmart Labs, I was a Staff Software Engineer working on AdTech systems for Jet.com that enabled Jet to publish its catalog all over the internet, allowed affiliates to monetize their presence, and even for Jet itself to monetize its digital real estate.
 
 At Jet we were the Growth Engineering Team, responsible for the systems that allowed Jet to grow to 1 million users even faster than Instagram.
+
 When Jet's Engineering teams were reallocated towards Walmart Labs in June 2019, we were lucky enough to keep >90% of the squad together and Walmart Lab's Health and Wellness organization was gracious enough to have us. 
 
-Since we were new to the area, the first thing we had to do was understand the different subsystems that exist. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was how do y'all deploy to the Cloud?
+Since we were new to the area, the first thing we had to do was understand the different subsystems that exist. After that we proposed an architecture that necessitated that some of the compute and storage be in the Cloud. The very next question that came up, had was, "How do y'all deploy to the Cloud?"
 
-I talked to four existing teams within our new group and got four different answers - none of which came with a resounding, "and you should follow our lead". The existing deployment solutions were either unscalable, non-compliant for HIPAA, or highly manual to operate.
+I talked to four existing teams within our new group and got four different answers - none of which came with a resounding, "and you should follow our lead". The existing deployment solutions were either unscalable, archeaic, or highly manual to operate.
 
-##The meat of the problem
+## The Pitch
 
 Understanding that minimizing iteration loops is a major key to delivering software solutions quickly, a group of us proposed an entire HIPAA Cloud, a set of cloud-native infrastructure where as much HIPAA compliance was pushed down into the infrastructure so that application developers could focus on owning business logic.
+
 We pitched the HIPAA Cloud to our stakeholders in November 2019, got their buy-in from a time and financial perspective, and started working towards this vision.
 
 While the technical details are interesting, I'll be focusing today on what I learned from folks not in Engineering - as they taught me specific, actionable techniques to ensuring this project - which involved more than 10 teams across Engineering, Software Foundations, Compliance, and the Security Operations Center, to be completed in just 5 months (of which 2 months were during the COVID-19 pandemic)!
 
-## Action: Below are the steps required to keep any multi-team project on track 
+## Action | Below are the steps required to keep any multi-team project on track 
 
 #### Come to the meeting prepared with an architecture diagram.
   * It's significantly easier to come to a meeting with a visual representation of what you're speaking about. Otherwise, you'll spend a non-trivial amount of time getting folks to build mental models solely based on your words. Level setting the technical discussion focuses the conversation on what yet hasn't been solved instead of what your vision is
@@ -40,7 +44,7 @@ While the technical details are interesting, I'll be focusing today on what I le
 #### All statements must be captured in writing (especially from Compliance)
   * There will be times when folks say one thing one day and a few weeks later some other folks challenge the first group's word - especially if it's relating to Compliance. If you don't get decisions in writing, you'll waste time setting up additional meetings so that the second group can hear the first group's statement from their mouths. Additionally, it's demoralizing for the folks driving to rehash things they considered settled. Another big shoutout to Cesar Ramirez for teaching me this technique!
 
-## In conclusion
+## Result
 
 By applying these specific, actionable techniques, we were able to deliver an entire HIPAA Cloud, which includes Kubernetes, Kafka, CosmosDB, ElasticSearch, Spark, and Splunk in just five months. We have even established a well-worn playbook for how additional building blocks - like relational databases, low-latency out-of-process caches, blob storage, etc. can be added to the HIPAA Cloud.
 
