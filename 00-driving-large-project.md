@@ -1,4 +1,4 @@
-# 6 Tips to Keep a Large, Mutli-Team Project on Track
+# 6 Tips to Keep a Large, Multi-Team Project on Track
 
 ## Situation
 
